@@ -1,0 +1,24 @@
+{
+  "name": "git-lab-7",
+  "version": "1.0.0",
+  "description": "Experiment 7 - Automating Build and Testing Processes Using GitHub Actions Workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadanR21/git-lab-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MadanR21/git-lab-7/issues"
+  },
+  "homepage": "https://github.com/MadanR21/git-lab-7#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
